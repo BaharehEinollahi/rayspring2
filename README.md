@@ -11,7 +11,7 @@ a Junior Computer Engineering student at University of Tehran.
 
 
 ----------------------------------
-<--! 
+<!-- 
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,py,r,arduino,linux,git,github)](https://skillicons.dev) 
 -->
